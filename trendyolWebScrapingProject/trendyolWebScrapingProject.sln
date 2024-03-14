@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "trendyolWebScrapingProject", "trendyolWebScrapingProject\trendyolWebScrapingProject.pyproj", "{3E412979-9EFD-422D-8235-E2A9A7B424C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E412979-9EFD-422D-8235-E2A9A7B424C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E412979-9EFD-422D-8235-E2A9A7B424C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F94600A6-5DC2-47D2-B7E5-A4580782064E}
+	EndGlobalSection
+EndGlobal

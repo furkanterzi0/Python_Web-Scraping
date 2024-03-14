@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dovizUygulama", "dovizUygulama\dovizUygulama.pyproj", "{4BAA75A9-0657-4D96-8D92-62C2218E4984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAA75A9-0657-4D96-8D92-62C2218E4984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAA75A9-0657-4D96-8D92-62C2218E4984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55545D43-2B13-4384-9394-50C1215DC321}
+	EndGlobalSection
+EndGlobal
